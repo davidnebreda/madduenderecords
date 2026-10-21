@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html
+{
+    background-image: url("./assets/images/fondo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat-y;
+    display: block;
+}
+
+body
+{
+    background-color: transparent;
+    display: block;
+    width: 100%;
+}
